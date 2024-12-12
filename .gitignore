@@ -102,6 +102,8 @@ ENV/
 
 # datasets
 /datasets/
+examples/pycox/gog_features/
+examples/pycox/toas/
 
 # vscode
 .vscode/
