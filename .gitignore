@@ -24,6 +24,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.packaging
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -49,6 +50,8 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+*.png
+*.pt
 
 # Django stuff:
 *.log
@@ -113,3 +116,5 @@ examples/pycox/toas/
 
 # data files
 /pycox/datasets/data/
+
+
